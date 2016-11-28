@@ -1,0 +1,27 @@
+{
+  "name": "nutrifoodbalancer",
+  "version": "1.0.0",
+  "description": "CMSC150Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josif78/CMSC150Simplex.git"
+  },
+  "keywords": [
+    "simplex"
+  ],
+  "author": "Joseph Alcantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josif78/CMSC150Simplex/issues"
+  },
+  "homepage": "https://github.com/Josif78/CMSC150Simplex#readme",
+  "dependencies": {
+    "loadash": "0.0.1",
+    "matrix-js": "^1.2.0"
+  }
+}
